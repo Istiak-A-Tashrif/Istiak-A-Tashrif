@@ -37,9 +37,9 @@
 
 ## :eyes: Current overview
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
+### 🔭 I’m seaching - For a job or internship. 
+### 🌱 I’m exploring - NextJs right now. 
 ### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+### 🤔 I’m trying - To hone my skills. 
+### ⚡ Fun fact - I love to eat Musk-melon and I consider AI my best friend.
 
