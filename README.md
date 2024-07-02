@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/tashrif/)[<img height="75" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/Facebook.png">](https://www.facebook.com/Tashrif.01000/)[<img height="75" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/Twitter.png"> </p>](https://x.com/IstiakTashrif)
+[<p align="center"><img height="75" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/tashrif/)[<img height="75" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/Facebook.png">](https://www.facebook.com/Tashrif.01000/)
 
 <br />
 
