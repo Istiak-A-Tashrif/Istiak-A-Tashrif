@@ -6,7 +6,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats-alpha-two.vercel.app?user=&background=0D1117&border=EB545400&stroke=0D1117&fire=FF1CF7&ring=FF1CF7&currStreakNum=FF1CF7&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=D2D2D3" />
+  <img width="60%" src="https://github-readme-streak-stats-alpha-two.vercel.app?user=istiak-a-tashrif&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&ring=FF1CF7&currStreakNum=FF1CF7&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=D2D2D3" />
 </p>
 
 ## :mailbox: Reach me out
