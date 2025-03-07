@@ -1,4 +1,4 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
+<a href="https://www.facebook.com/IstiakAhmedTashrif/">
 <img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/cover.png" />
 </a>
 
