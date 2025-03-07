@@ -44,7 +44,7 @@
 [<p align="center"><img height="75" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/istiak01/)[<img height="75" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/Facebook.png">](https://www.facebook.com/IstiakAhmedTashrif)
 
 <br />
-
+ 
 ## :computer: Technologies that I know
 
 <br>
