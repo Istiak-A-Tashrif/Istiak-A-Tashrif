@@ -24,21 +24,31 @@
 <img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/css.png"/>
 <img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/typescript.png"/>
 <img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/react.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/node.png"/>
+<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/nextjs.png"/>
 </p>
 <p align="center">
+<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/node.png"/>
+<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/nestjs.png"/>
+<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/express.png"/>
+<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/postgresql.png"/>
+<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/mysql.png"/>
+<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/mongo.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/prisma.png"/>
 <img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/firebase.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/express.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/mongo.png"/>
+<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/php.png"/>
+<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/laravel.png"/>
 </p><br/>
 
 ## :eyes: Current overview
 
-### 🔭 I’m seaching - For a job or internship. 
-### 🌱 I’m exploring - NextJs right now. 
+### 🔭 I’m seaching - For better opportunities. 
+### 🌱 I’m exploring - DevOps right now. 
 ### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To hone my skills. 
+### 🤔 I’m trying - To explore competitive programming. 
 ### ⚡ Fun fact - I love to eat Musk-melon and I consider AI my best friend.
