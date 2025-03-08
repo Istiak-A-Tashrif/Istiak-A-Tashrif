@@ -21,28 +21,28 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/css.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/typescript.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/react.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/nextjs.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/HTML.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/css.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/JavaScript.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/typescript.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/react.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/nextjs.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/node.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/nestjs.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/express.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/postgresql.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/mysql.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/mongo.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/node.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/nestjs.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/express.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/postgresql.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/mysql.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/mongo.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/prisma.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/firebase.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/php.png"/>
-<img src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/laravel.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/prisma.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/tailwind.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/Bootsrap.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/firebase.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/php.png"/>
+<img width="60" height="60" src="https://github.com/Istiak-A-Tashrif/Istiak-A-Tashrif/blob/main/images/icons/laravel.png"/>
 </p><br/>
 
 ## :eyes: Current overview
